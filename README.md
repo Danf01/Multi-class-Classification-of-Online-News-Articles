@@ -50,7 +50,7 @@ news-classifier/
 ├── data/                        # ⚠️ not tracked (see .gitignore)
 │   ├── development.csv
 │   └── evaluation.csv
-├── requirements.txt
+|
 └── README.md
 ```
 
